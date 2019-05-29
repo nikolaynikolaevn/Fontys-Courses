@@ -1,5 +1,3 @@
-Our working project on hera: http://i378522.hera.fhict.nl/ 
-
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
